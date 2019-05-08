@@ -1,0 +1,11 @@
+packageName,sku,countryCode,currency,priceMicros
+gamehive_game1,gamehive_game1_product1,RU,RUB,3790.0
+gamehive_game1,gamehive_game1_product1,CA,CAD,69.99
+gamehive_game1,gamehive_game1_product1,JP,JPY,6000.0
+gamehive_game1,gamehive_game1_product1,IT,EUR,54.99
+gamehive_game1,gamehive_game1_product1,US,USD,49.99
+gamehive_game1,gamehive_game1_product1,KR,KRW,65000.0
+gamehive_game1,gamehive_game1_product1,AU,AUD,79.99
+gamehive_game1,gamehive_game1_product1,GB,GBP,48.99
+gamehive_game1,gamehive_game1_product1,DZ,DZD,6325.0
+gamehive_game1,gamehive_game1_product1,SG,SGD,68.98
